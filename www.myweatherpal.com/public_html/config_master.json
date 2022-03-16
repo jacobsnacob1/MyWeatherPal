@@ -1,0 +1,12 @@
+{
+    "sendgrid_api_key": "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",
+    "weatherAPI_api_key": "9d6dc21540mshdaa15ea93704ef8p127727jsnfb9572ed3dbb",
+    "ambee_api_key": "87b3a91e9458bbcdba4899dbd35ca93823b5e7a2ef574487c27c9678822dcae4",
+    "rds_mysql": {
+        "db_username" : "db_user",
+        "db_password" : "$7WC_SvzF+-K,k.5Xh4~",
+        "db_name" : "mwp_1",
+        "db_host" : "db-mwp-1.cvltgl2nu19z.us-east-2.rds.amazonaws.com"
+    }
+    
+}

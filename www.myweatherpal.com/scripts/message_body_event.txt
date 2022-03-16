@@ -1,0 +1,6 @@
+Hello from MyWeatherPal,
+
+Weather Alert Details
+
+Over the next 4 hours:
+{}, {}

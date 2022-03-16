@@ -1,0 +1,38 @@
+{
+    'message': 'success',
+    'lat': 28.01436652432693,
+    'lng': -82.54322073393575,
+    'data': [{
+        'Count': {
+            'grass_pollen': 0,
+            'tree_pollen': 0,
+            'weed_pollen': 16
+        },
+        'Risk': {
+            'grass_pollen': 'Low',
+            'tree_pollen': 'Low',
+            'weed_pollen': 'Low'
+        },
+        'Species': {
+            'Grass': {
+                'Grass / Poaceae': 0
+            },
+            'Others': 0,
+            'Tree': {
+                'Ash': 0,
+                'Birch': 0,
+                'Cypress / Juniper / Cedar': 0,
+                'Elm': 0,
+                'Maple': 0,
+                'Mulberry': 0,
+                'Oak': 0,
+                'Pine': 0,
+                'Poplar / Cottonwood': 0
+            },
+            'Weed': {
+                'Ragweed': 16
+            }
+        },
+        'updatedAt': '2021-11-27T03:27:12.000Z'
+    }]
+}

@@ -1,0 +1,4 @@
+Hello from MyWeatherPal,
+
+Weather Alert for Today:
+{}, {}
